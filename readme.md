@@ -1,4 +1,6 @@
 # End-to-End Chatbot using Python
+
+
 # What is an End to End Chatbot?
 An end-to-end chatbot refers to a chatbot that can handle a complete conversation from start to finish without requiring human assistance. To create an end-to-end chatbot, you need to write a computer program that can understand user requests, generate appropriate responses, and take action when necessary. This involves collecting data, choosing a programming language and NLP tools, training the chatbot, and testing and refining it before making it available to users. 
 
@@ -12,6 +14,7 @@ Once deployed, users can interact with the chatbot by sending it multiple reques
 4. Build the chatbot
 5. Test the chatbot
 6. Deploy the chatbot
+   
 
 I hope you now have understood what an end-to-end chatbot is and the process of creating an end-to-end chatbot. In the section below, I’ll walk you through how to build an end-to-end chatbot using Python.
 
@@ -58,7 +61,7 @@ After executing the command, you will see a UI of your chatbot in your web brows
 So, this is how you can create an end-to-end chatbot using the Python programming language.
 
 
-# Summary
+# summary
 
 An end-to-end chatbot refers to a chatbot that can handle a complete conversation from start to finish without requiring human assistance. Creating an end-to-end Chatbot involves collecting data, choosing a programming language and NLP tools, training the chatbot, and testing and refining it before making it available to users.
 
