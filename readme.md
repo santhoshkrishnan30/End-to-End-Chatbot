@@ -25,7 +25,7 @@ Now let’s start with creating an end-to-end chatbot using Python. I’ll start
 ![image](https://github.com/santhoshkrishnan30/End-to-End-Chatbot/assets/145760700/56234e9f-cf8d-4fae-bd8b-e12d5e6ec20c)
 
 
-Now let’s define some intents of the chatbot. You can add more intents to make the chatbot more helpful and more functional:
+Now let’s define some intents of the chatbot. You can add more intents to make the chatbot more helpful and more functional :
 
 ![image](https://github.com/santhoshkrishnan30/End-to-End-Chatbot/assets/145760700/4e1cad8f-7fe5-4731-88fe-bb11909b14fd)
 ![image](https://github.com/santhoshkrishnan30/End-to-End-Chatbot/assets/145760700/f2cd2ed4-f3b2-42f3-8bf7-9f2105e1885d)
