@@ -34,7 +34,9 @@ Now let’s define some intents of the chatbot. You can add more intents to make
 Now let’s prepare the intents and train a Machine Learning model for the chatbot:
 ![image](https://github.com/santhoshkrishnan30/End-to-End-Chatbot/assets/145760700/60d5b00a-7c83-4e4a-82f0-9a1b44d564e5)
 
-Now let’s write a Python function to chat with the chatbot:
+
+Now let's write a python function to chat with the chatbot:
+
 
 ![image](https://github.com/santhoshkrishnan30/End-to-End-Chatbot/assets/145760700/85059e37-b401-42af-ad81-6dbc1e64e74c)
 
